@@ -5,8 +5,10 @@
 head {display: none;}
 
 
-.photo {grid-row: 3/4;
-		grid-column:1/2;}
+.logo {margin: auto;
+  	width: 50%;
+  	border: 3px solid green;
+  	padding: 10px;}
 
 .me {grid-column: 2 / 3;}
 
