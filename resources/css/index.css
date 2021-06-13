@@ -6,8 +6,7 @@ head {display: none;}
 
 
 .logo {margin: auto;
-  	width: 50%;
-  	border: 3px solid green;
+  	width: auto;
   	padding: 10px;}
 
 .me {grid-column: 2 / 3;}
@@ -19,7 +18,7 @@ body {background-color: lavender;
 	
 
 header {background-color: white; 
-			color: white;
+			color: red;
 			font-size: 200%;
 			padding: 30px;}
 			
