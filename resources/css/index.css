@@ -5,9 +5,10 @@
 head {display: none;}
 
 
-.logo {margin: auto;
-  	width: auto;
-  	padding: 10px;}
+.logo {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;}
 
 .me {grid-column: 2 / 3;}
 
