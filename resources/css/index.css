@@ -51,13 +51,7 @@ header {
   font-size: 200%;
   padding: 20px;
 }
-nav {
-  background-color: #bc9bcc;
-  font-size: 100%;
-  padding: none;
-  color: white;
-  text-align: right;
-}
+
 p {
   color: grey;
 }
