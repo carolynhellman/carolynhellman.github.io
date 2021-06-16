@@ -60,13 +60,7 @@ header {
 	font-size: 200%;
 	padding: 20px;
 }
-nav {
-	background-color: white;
-	font-size: 100%;
-	padding: none;
-	color: white;
-	text-align: right;
-}
+
 ul {
 	list-style-type: none;
 	margin: 0;
