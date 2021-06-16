@@ -1,0 +1,117 @@
+* {
+  font-family: "Arial", serif;
+}
+head {
+  display: none;
+}
+a {
+  color: #bc9bcc;
+  text-decoration: none;
+}
+/* visited link */
+
+a:visited {
+  color: #bc9bcc;
+}
+/* mouse over link */
+
+a:hover {
+  color: #fb06fb;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.square {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+.socials {
+  width: 30px;
+  height: 30px;
+}
+.links {
+  display: inline;
+}
+p {
+  color: grey;
+}
+h2 {
+  font-family: "Abril Fatface";
+  color: black;
+}
+section {
+  background-color: lavender;
+  color: black;
+  padding: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+body {
+  background-color: lavender;
+  margin: 0;
+}
+header {
+  background-color: white;
+  color: black;
+  font-size: 200%;
+  padding: 20px;
+}
+nav {
+  background-color: white;
+  font-size: 100%;
+  padding: none;
+  color: white;
+  text-align: right;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f2f2f2;
+}
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+main {
+  background-color: grey;
+  padding: 20px;
+  font-size: 100%;
+}
+footer {
+  background-color: #bc9bcc;
+  color: white;
+  font-size: 100%;
+  padding: 20px;
+  text-align: left;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #fb06fb;
+  opacity: 0.85;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+}
+#myBtn:hover {
+  background-color: #a1ffff;
+}
